@@ -1,7 +1,7 @@
-        var username = 'sheikh islam'
-        var age = '17'
-        var education = 'matriculation in karachi board'
-        var gmail = 'sheikhislam9871@gmail.com' 
+        var username = 'amanullah'
+        var age = '19'
+        var education = 'graduate in jamia-tul-madina'
+        var gmail = 'au8877758@gmail.com' 
         var book = 'iam trying to learn from the book a smarter way to learn javascript' 
 
 
